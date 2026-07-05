@@ -1,0 +1,6 @@
+{
+  "name": "Muse Player",
+  "description": "A elegant and high-fidelity music streaming and downloading application with dynamic visual themes, lyrics integration, and offline playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
